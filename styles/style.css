@@ -63,6 +63,10 @@ body {
     background-position: center;
 }
 
+.influncer-jurney-image-part img:hover {
+    transform: scale(1.2) rotate(30deg);
+    transition: transform 2s;
+}
 
 
 /* influncer jurney section style start  */
