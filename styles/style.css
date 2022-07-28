@@ -134,3 +134,26 @@ body {
 }
 
 /* popular product style end  */
+/* footar style start  */
+footer {
+    display: flex;
+    justify-content: center;
+    color: #FFFFFF;
+    background-color: #0A0826;
+}
+
+.footer-container {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+footer {
+    text-align: center;
+}
+
+footer div a {
+    color: #FFFFFF;
+
+}
+
+/* footar style end */
