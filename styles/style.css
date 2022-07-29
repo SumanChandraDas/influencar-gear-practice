@@ -190,6 +190,6 @@ footer div a {
     }
 
     .popular-collections {
-        display: none;
+        grid-template-columns: repeat(1, 1fr);
     }
 }
